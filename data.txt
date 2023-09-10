@@ -1,0 +1,15 @@
+GIT(LOCAL) <-> GITHUB(CLOUD)
+Branches 
+VisualStudio 2022
+git config --global user.name
+git config --global user.email
+
+git
+V1 ----> V2 -----> V3 
+
+ADD/UPDATED/DELETE/ 
+
+index.html  UPDATE 1---> Stage  ----> History Commit 1 
+index.html  UPDATE 2---> Stage  ----> History Commit 2 
+_____________________________________________________
+
